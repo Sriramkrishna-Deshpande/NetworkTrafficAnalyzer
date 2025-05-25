@@ -1,0 +1,6 @@
+pyshark
+matplotlib
+seaborn
+pandas
+numpy
+psutil
